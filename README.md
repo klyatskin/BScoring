@@ -27,7 +27,7 @@ Classes design:
 - String+Utilities.swift: String extension  
     func isInteger() -> Bool // return true is the string presents an integer  
         
-- ViewController.swift: Uesr interaction class to get the rolls input and present the score  
+- ViewController.swift: User interaction class to get the rolls input and present the score  
   
 --   
 
