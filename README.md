@@ -30,7 +30,7 @@ Classes design:
 - ViewController.swift: User interaction class to get the rolls input and present the score  
 
 - BScoringTests.swift: Unit test for scoring. 
-    func testScoring() throws  // test different inputs...  
+    func testScoring() throws  // test for different inputs...  
   
 --   
 
