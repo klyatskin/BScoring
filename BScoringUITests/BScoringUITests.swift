@@ -1,13 +1,13 @@
 //
-//  BScowringUITests.swift
-//  BScowringUITests
+//  BScoringUITests.swift
+//  BScoringUITests
 //
 //  Created by Konstantin Klyatskin on 2021-04-20.
 //
 
 import XCTest
 
-class BScowringUITests: XCTestCase {
+class BScoringUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

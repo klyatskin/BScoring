@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  BScowring
+//  BScoring
 //
 //  Created by Konstantin Klyatskin on 2021-04-20.
 //
