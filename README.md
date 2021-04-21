@@ -28,6 +28,9 @@ Classes design:
     func isInteger() -> Bool // return true is the string presents an integer  
         
 - ViewController.swift: User interaction class to get the rolls input and present the score  
+
+- BScoringTests.swift: Unit test for scoring. 
+    func testScoring() throws  // test different inputs...  
   
 --   
 
