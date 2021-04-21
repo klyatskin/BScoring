@@ -1,5 +1,5 @@
 # BScoring
-Scoring engine for bowling
+Scoring engine for bowling (Xcode Version 12.2 (12B45b) project. Swift) 
 
 
 Classes design:
