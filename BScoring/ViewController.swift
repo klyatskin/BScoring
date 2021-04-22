@@ -22,7 +22,7 @@ class ViewController: UIViewController {
             txtFieldPins.text = ""
             scoring.reset()
             updateUI()
-        } else if (button == btnEnter) {
+        } else if (button === btnEnter) {
             if pinsEntryAccepted(txtFieldPins) {
                 txtFieldPins.text = ""
                 updateUI()
